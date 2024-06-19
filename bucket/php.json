@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/php/php-src/archive/refs/tags/php-8.1.10.zip",
-      "hash": "sha256:d7d4d4e0b7dfeef438bebf60e6e497ba5a7b4b95763c5ab82bba36d8aafa1915",
+      "hash": "ab57178585dd8de3360e6108924ec348045ba64a6f6b7b912ee1b26e74273e3a",
       "extract_dir": "php-src-php-8.1.10",
       "bin": [
         "php.exe"
@@ -14,7 +14,7 @@
     },
     "32bit": {
       "url": "https://github.com/php/php-src/archive/refs/tags/php-8.1.10.zip",
-      "hash": "sha256:d7d4d4e0b7dfeef438bebf60e6e497ba5a7b4b95763c5ab82bba36d8aafa1915",
+      "hash": "ab57178585dd8de3360e6108924ec348045ba64a6f6b7b912ee1b26e74273e3a",
       "extract_dir": "php-src-php-8.1.10",
       "bin": [
         "php.exe"
